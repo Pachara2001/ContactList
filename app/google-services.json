@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834136384575",
+    "project_id": "newcontact-df187",
+    "storage_bucket": "newcontact-df187.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834136384575:android:a04c6d3d2c354286cd448a",
+        "android_client_info": {
+          "package_name": "com.example.contact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834136384575-jp04bk053vmmrjelq5p1o866bo5nr8sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlsGhyD9dnZJNyuUpoKI9FgaCZkOtbrgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834136384575-jp04bk053vmmrjelq5p1o866bo5nr8sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
